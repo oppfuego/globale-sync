@@ -1,0 +1,528 @@
+.product-image-icon {
+  flex: 1;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.esim-europe {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.esim-europe-1gb-5-days-3-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+  font-size: 32px;
+}
+.stars-icon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.star-icon,
+.star-icon1,
+.star-icon2,
+.star-icon3,
+.stars-icon {
+  height: 12px;
+  width: 12px;
+  position: relative;
+  min-height: 12px;
+}
+.frame-wrapper,
+.stars-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.stars-parent {
+  flex-direction: row;
+  gap: 5px;
+}
+.frame-wrapper {
+  flex-direction: column;
+  padding: 5px 0 0;
+}
+.write-a-review {
+  text-decoration: underline;
+}
+.based-on-0-container {
+  position: relative;
+  line-height: 22px;
+}
+.frame-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 20px;
+  box-sizing: border-box;
+  gap: 12px;
+  max-width: 100%;
+}
+.ex-tax-395,
+.price2 {
+  position: relative;
+  display: inline-block;
+}
+.price2 {
+  line-height: 120%;
+  min-width: 93px;
+  white-space: nowrap;
+}
+.ex-tax-395 {
+  font-size: 16px;
+  line-height: 22px;
+  min-width: 103px;
+}
+.price-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 20px;
+  gap: 16px;
+  font-size: 32px;
+}
+.brand-name {
+  display: inline-block;
+  min-width: 98px;
+}
+.brand-name,
+.esim-profile-regional {
+  position: relative;
+  line-height: 22px;
+}
+.brand-name-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 20px;
+  gap: 16px;
+}
+.desired-delivery-date,
+.eg-31122023 {
+  position: relative;
+  line-height: 22px;
+}
+.eg-31122023 {
+  display: inline-block;
+  min-width: 114px;
+}
+.calendar-elements {
+  align-self: stretch;
+  border-radius: 10px;
+  border: 1px solid #5a5a5a;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 24px;
+  white-space: nowrap;
+}
+.add-to-cart {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #1c1c1c;
+  text-align: left;
+  display: inline-block;
+  min-width: 88px;
+}
+.calendar-elements-parent,
+.calendar-elements1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.calendar-elements1 {
+  cursor: pointer;
+  border: 0;
+  padding: 12px 24px;
+  background-color: #4cff3c;
+  border-radius: 20px;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.calendar-elements1:hover {
+  background-color: #1acc0a;
+}
+.calendar-elements-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 36px;
+}
+.calendar-icon {
+  height: 40px;
+  width: 40px;
+  position: relative;
+}
+.frame-parent4 {
+  width: 256px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.desired-delivery-date-of-the-q-parent,
+.frame-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frame-parent2 {
+  padding: 0 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.features {
+  margin: 0;
+  position: relative;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.frame-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d5d5d5;
+  box-sizing: border-box;
+}
+.frame-parent1,
+.product-image-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 686px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 48px;
+  min-width: 686px;
+}
+.product-image-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 166px;
+}
+.esim-profile-specifications {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.data-package,
+.gb2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 105px;
+}
+.gb2 {
+  min-width: 35px;
+}
+.data-package-parent {
+  width: 212px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.days2,
+.validity {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 56px;
+}
+.days2 {
+  min-width: 52px;
+}
+.validity-parent {
+  width: 229px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.network-coverage {
+  position: relative;
+  line-height: 22px;
+}
+.andorra-austria-belgium {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 331px;
+  max-width: 100%;
+}
+.esim-profile-specifications-parent,
+.frame-parent5,
+.network-coverage-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.network-coverage-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 35px;
+}
+.esim-profile-specifications-parent,
+.frame-parent5 {
+  flex-direction: column;
+  gap: 32px;
+}
+.frame-parent5 {
+  align-self: stretch;
+}
+.esim-profile-specifications-parent {
+  width: 686px;
+}
+.pdp-showcase-1920x-child {
+  width: 686px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d5d5d5;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.esim-profile-policies {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.activation-policy {
+  display: inline-block;
+  min-width: 126px;
+}
+.activation-on-first,
+.activation-policy {
+  position: relative;
+  line-height: 22px;
+}
+.policies {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+  max-width: 100%;
+}
+.non-refundable,
+.refund-policy {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 104px;
+}
+.non-refundable {
+  min-width: 122px;
+}
+.policies1 {
+  width: 312px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.fair-use-policy {
+  display: inline-block;
+  min-width: 112px;
+}
+.fair-use-policy,
+.gb-at-high {
+  position: relative;
+  line-height: 22px;
+}
+.policies2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.allowed,
+.hotspot-tethering {
+  position: relative;
+  display: inline-block;
+}
+.hotspot-tethering {
+  width: 127px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.allowed {
+  line-height: 22px;
+  min-width: 60px;
+}
+.allowed-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22px 0 0;
+}
+.esim-profile-policies-parent,
+.hotspot-tethering-mifi-r-parent {
+  width: 254px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.esim-profile-policies-parent {
+  width: 435px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.pdp-showcase-1920x-inner {
+  width: 937px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.pdp-showcase-1920x-item {
+  width: 686px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d5d5d5;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pdp-showcase-1920x {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 80px 120px 111px;
+  box-sizing: border-box;
+  gap: 47.5px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 1575px) {
+  .frame-parent1 {
+    flex: 1;
+  }
+  .product-image-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .frame-parent1 {
+    min-width: 100%;
+  }
+  .product-image-parent {
+    gap: 83px;
+  }
+  .pdp-showcase-1920x {
+    padding: 52px 60px 72px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .product-image-icon {
+    min-width: 100%;
+  }
+  .esim-europe,
+  .features,
+  .price2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frame-parent1 {
+    gap: 24px;
+  }
+  .product-image-parent {
+    gap: 41px;
+  }
+  .network-coverage-parent {
+    gap: 17px;
+  }
+  .esim-profile-specifications-parent,
+  .frame-parent5 {
+    gap: 16px;
+  }
+  .pdp-showcase-1920x {
+    gap: 24px;
+    padding: 34px 30px 47px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .esim-europe {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .frame-parent3 {
+    flex-wrap: wrap;
+  }
+  .features,
+  .price2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .product-image-parent {
+    gap: 21px;
+  }
+  .esim-profile-policies,
+  .esim-profile-specifications {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .policies {
+    gap: 30px;
+  }
+  .policies,
+  .policies2 {
+    flex-wrap: wrap;
+  }
+  .esim-profile-policies-parent {
+    gap: 16px;
+  }
+  .pdp-showcase-1920x {
+    padding-top: 22px;
+    padding-bottom: 31px;
+    box-sizing: border-box;
+  }
+}

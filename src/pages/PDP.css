@@ -1,0 +1,109 @@
+.how-does-esim2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.arrow-left-icon2,
+.arrow-right-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.arrow-left-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.how-does-esim-from-globalesync-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.steps-parent {
+  width: 1680px;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+  grid-template-columns: repeat(4, minmax(301px, 1fr));
+}
+.frame-parent,
+.pdp,
+.pdp-inner {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+}
+.pdp,
+.pdp-inner {
+  align-items: flex-start;
+}
+.pdp-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 80px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.pdp {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  flex-direction: column;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1575px) {
+  .steps-parent {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 825px) {
+  .how-does-esim-from-globalesync-parent {
+    flex-wrap: wrap;
+  }
+  .steps-parent {
+    grid-template-columns: minmax(301px, 1fr);
+  }
+  .frame-parent {
+    gap: 16px;
+    padding-top: 52px;
+  }
+  .frame-parent,
+  .pdp-inner {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-does-esim2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

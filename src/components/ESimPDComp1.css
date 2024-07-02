@@ -1,0 +1,404 @@
+.gb-7-days2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.medal-star-icon5 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.feature-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.gb-7-days3 {
+  position: relative;
+  line-height: 22px;
+}
+.feature-highlights {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.gb1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 30px;
+}
+.info-circle-icon4 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.data-info,
+.data-values,
+.feature-highlights-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-info {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.data-values,
+.feature-highlights-parent {
+  flex-direction: row;
+  gap: 12px;
+}
+.feature-highlights-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.medal-star-icon6 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.loadable-highlights {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.loadable1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 70px;
+}
+.loadable-containers {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.yes1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 28px;
+}
+.info-circle-icon5 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.availability-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.availability-indicators,
+.loadable-containers-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.loadable-containers-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.medal-star-icon7 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.duration-highlights {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.duration1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 65px;
+}
+.duration-containers {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.days1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 52px;
+}
+.info-circle-icon6 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.duration-containers-parent,
+.duration-info,
+.duration-values {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.duration-info {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.duration-containers-parent,
+.duration-values {
+  flex-direction: row;
+  gap: 12px;
+}
+.duration-containers-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.medal-star-icon8 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.price-highlights {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.price1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 39px;
+}
+.price-containers {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.price-amount {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 45px;
+  white-space: nowrap;
+}
+.info-circle-icon7 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.price-containers-parent,
+.price-info,
+.price-values {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.price-info {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.price-containers-parent,
+.price-values {
+  flex-direction: row;
+  gap: 12px;
+}
+.price-containers-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.medal-star-icon9 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.quantity-highlights {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.quantity12 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 65px;
+}
+.quantity-containers {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.quantity-amount,
+.quantity-data {
+  position: relative;
+  display: inline-block;
+}
+.quantity-amount {
+  line-height: 22px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+.quantity-data {
+  line-height: 19px;
+  min-width: 8px;
+}
+.quantity-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.quantity-options,
+.quantity-units {
+  position: relative;
+  display: inline-block;
+  min-width: 9px;
+}
+.quantity-units {
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  font-family: Inter;
+}
+.quantity-options {
+  line-height: 19px;
+}
+.quantity-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.quantity-containers-parent,
+.quantity-info,
+.quantity-values {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.quantity-info {
+  border-radius: 4px;
+  background-color: #1c1c1c;
+  overflow-x: auto;
+  padding: 0 5px;
+  gap: 9px;
+  text-align: right;
+  font-size: 14px;
+  color: #fff;
+  font-family: "Work Sans";
+}
+.quantity-containers-parent,
+.quantity-values {
+  gap: 12px;
+}
+.quantity-containers-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.additional-info1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  text-align: center;
+}
+.group-div {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 16px;
+}
+.buy-now1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #1c1c1c;
+  text-align: center;
+  display: inline-block;
+  min-width: 68px;
+}
+.action-buttons,
+.esim-pd-comp1 {
+  border-radius: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.action-buttons {
+  cursor: pointer;
+  border: 0;
+  padding: 12px 20px;
+  background-color: #4cff3c;
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  white-space: nowrap;
+}
+.action-buttons:hover {
+  background-color: #1acc0a;
+}
+.esim-pd-comp1 {
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #eee;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 48px 24px;
+  box-sizing: border-box;
+  gap: 48px;
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .gb-7-days2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .duration-containers-parent,
+  .feature-highlights-parent,
+  .loadable-containers-parent,
+  .price-containers-parent,
+  .quantity-containers-parent {
+    flex-wrap: wrap;
+  }
+}

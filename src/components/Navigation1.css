@@ -1,0 +1,47 @@
+.find-the-perfect {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.hero-banner,
+.navigation {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.hero-banner {
+  flex-direction: row;
+  justify-content: center;
+  padding: 120px 20px;
+  background-image: url(/public/hero-banner@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.navigation {
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 800px) {
+  .find-the-perfect {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .hero-banner {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .find-the-perfect {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

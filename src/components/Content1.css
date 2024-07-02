@@ -1,0 +1,503 @@
+.select-available-countries1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.form-label2 {
+  width: 78px;
+  border: 0;
+  outline: 0;
+  font-family: Inter;
+  font-size: 16px;
+  background-color: transparent;
+  height: 22px;
+  position: relative;
+  line-height: 135%;
+  color: #776868;
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+}
+.icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.country-input,
+.form-field2 {
+  align-self: stretch;
+  display: flex;
+}
+.form-field2 {
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #c6c6c6;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+}
+.country-input {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 32px;
+}
+.popular-countries2 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.country-flags-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.nepal1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+}
+.country-block-11 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 248px 12px 16px;
+  gap: 16px;
+}
+.flagspakistan-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.pakistan1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 65px;
+}
+.country-block-51 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 227px 12px 16px;
+  gap: 16px;
+}
+.flagsindia-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.india1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 37px;
+}
+.country-block-41 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 255px 12px 16px;
+  gap: 16px;
+}
+.flagsunited-states-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.usa1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 33px;
+}
+.country-block-31 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 259px 12px 16px;
+  gap: 16px;
+}
+.flagsmonaco-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.monaco1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 61px;
+}
+.country-block-61 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 231px 12px 16px;
+  gap: 16px;
+}
+.flagsthailand-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.thailand1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 65px;
+}
+.country-block-71 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 227px 12px 16px;
+  gap: 16px;
+}
+.flagsunited-arab-emirates1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.dubai1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+}
+.country-block-81 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 248px 12px 16px;
+  gap: 16px;
+}
+.add-circle-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.explore-more1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 100px;
+}
+.country-block-91,
+.country-list1 {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.country-block-91 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 192px 12px 16px;
+  gap: 16px;
+  white-space: nowrap;
+}
+.country-list1 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+}
+.country-input-parent,
+.popular-countries-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.popular-countries-group {
+  align-self: stretch;
+  justify-content: center;
+  gap: 12px;
+}
+.country-input-parent {
+  width: 348px;
+  justify-content: flex-start;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 80px;
+  max-width: 100%;
+}
+.form-label3,
+.sort-by1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 61px;
+}
+.form-label3 {
+  min-width: 100px;
+}
+.icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.form-field3,
+.sort-options {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.form-field3 {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #c6c6c6;
+  overflow: hidden;
+  justify-content: space-between;
+  padding: 7px 10px;
+  white-space: nowrap;
+  gap: 20px;
+}
+.sort-options {
+  width: 286px;
+  justify-content: center;
+  gap: 15px;
+}
+.rotate-left-icon1 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.clear-all-filters1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 114px;
+}
+.filter-actions {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 12px;
+}
+.product-cards,
+.sort-options-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.sort-options-parent {
+  gap: 20px;
+}
+.product-cards {
+  height: 1605px;
+  flex-wrap: wrap;
+  position: relative;
+  font-size: 24px;
+  color: #1c1c1c;
+}
+.content,
+.country-selection,
+.listing2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.listing2 {
+  flex: 1;
+  border-radius: 8px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 40px;
+  min-width: 814px;
+  font-size: 16px;
+  color: #000;
+}
+.content,
+.country-selection {
+  flex-direction: row;
+}
+.country-selection {
+  width: 1680px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.content {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Inter;
+}
+@media screen and (max-width: 1300px) {
+  .listing2 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .country-input-parent,
+  .listing2 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .listing2 {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .popular-countries2,
+  .select-available-countries1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .country-input-parent {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .sort-options-parent {
+    flex-wrap: wrap;
+  }
+  .listing2 {
+    gap: 20px;
+  }
+  .country-selection {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .select-available-countries1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .country-input {
+    gap: 16px;
+  }
+  .popular-countries2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .country-block-11,
+  .country-block-31,
+  .country-block-41,
+  .country-block-51,
+  .country-block-61,
+  .country-block-71,
+  .country-block-81,
+  .country-block-91 {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .country-input-parent {
+    gap: 40px;
+  }
+  .product-cards {
+    height: auto;
+    min-height: 1605;
+  }
+  .listing2 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+  .country-selection {
+    gap: 20px;
+  }
+}

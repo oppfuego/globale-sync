@@ -1,0 +1,395 @@
+.gb-7-days {
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 600;
+}
+.medal-star-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plan-card-feature-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.gb-7-days1 {
+  position: relative;
+  line-height: 22px;
+}
+.plan-card-feature-items {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.gb {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 30px;
+}
+.info-circle-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plan-card-data-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.gb-parent,
+.plan-card-feature-items-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.plan-card-feature-items-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.medal-star-icon1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plan-card-loadable-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.loadable {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 70px;
+}
+.plan-card-loadable-items {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.yes {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 28px;
+}
+.info-circle-icon1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plan-card-loadable-info-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.plan-card-loadable-items-parent,
+.yes-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.plan-card-loadable-items-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.medal-star-icon2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plan-card-duration-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.duration {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 65px;
+}
+.plan-card-duration-items {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.days {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 52px;
+}
+.info-circle-icon2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plan-card-duration-info-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.days-parent,
+.plan-card-duration-items-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.plan-card-duration-items-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.medal-star-icon3 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.stars {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.price {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 39px;
+}
+.plan-card-price-items {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.prices1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 45px;
+  white-space: nowrap;
+}
+.info-circle-icon3 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plan-card-price-items-parent,
+.prices,
+.prices2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.prices2 {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.plan-card-price-items-parent,
+.prices {
+  flex-direction: row;
+  gap: 12px;
+}
+.plan-card-price-items-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.medal-star-icon4 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.quantity2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.quantity3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 65px;
+}
+.quantity1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.quantity5,
+.quantity8 {
+  position: relative;
+  display: inline-block;
+}
+.quantity5 {
+  line-height: 22px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+.quantity8 {
+  line-height: 19px;
+  min-width: 8px;
+}
+.quantity7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.quantity11,
+.quantity9 {
+  position: relative;
+  display: inline-block;
+  min-width: 9px;
+}
+.quantity9 {
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  font-family: Inter;
+}
+.quantity11 {
+  line-height: 19px;
+}
+.quantity,
+.quantity10,
+.quantity4,
+.quantity6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.quantity10 {
+  flex-direction: column;
+  padding: 1px 0 0;
+}
+.quantity,
+.quantity4,
+.quantity6 {
+  flex-direction: row;
+}
+.quantity6 {
+  border-radius: 4px;
+  background-color: #1c1c1c;
+  overflow-x: auto;
+  padding: 0 5px;
+  gap: 9px;
+  text-align: right;
+  font-size: 14px;
+  color: #fff;
+  font-family: "Work Sans";
+}
+.quantity,
+.quantity4 {
+  gap: 12px;
+}
+.quantity {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.additional-info {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  text-align: center;
+}
+.frame-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.buy-now {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 68px;
+  text-decoration: none;
+    color: #1c1c1c;
+}
+.buttons,
+.esim-pd-comp {
+  border-radius: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.buttons {
+  align-self: stretch;
+  background-color: #4cff3c;
+  flex-direction: row;
+  justify-content: center;
+  padding: 12px 20px;
+  white-space: nowrap;
+  text-align: center;
+}
+.esim-pd-comp {
+  width: 402px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #eee;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 48px 24px;
+  box-sizing: border-box;
+  gap: 48px;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .gb-7-days {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .plan-card-duration-items-parent,
+  .plan-card-feature-items-parent,
+  .plan-card-loadable-items-parent,
+  .plan-card-price-items-parent,
+  .quantity {
+    flex-wrap: wrap;
+  }
+}
